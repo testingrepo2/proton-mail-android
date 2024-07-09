@@ -8,7 +8,7 @@ Thank you for your support and understanding.
 
 # Proton Mail for Android
 
-Copyright (c) 2020 Proton AG
+Copyright (c) 2020 Proton AG 
 
 ## License
 
